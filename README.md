@@ -1,4 +1,4 @@
-# BTI325-Web-ProgrammingToolsandFrameworks
+# BTI325-WebProgrammingToolsandFrameworks
 
 ### Subject Description
 
